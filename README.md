@@ -35,6 +35,7 @@ If the human is the closest to the target number, he enters an infix expression.
 
 # Scoring
 
-If the difference is less than or equals to 10; point = 15 - Abs(TargetNumber - CalculatedNumber)
+If the difference is less than or equals to 10;   point = 15 - Abs(TargetNumber - CalculatedNumber)
+
 If the difference is greater than 10; point = 5
 
